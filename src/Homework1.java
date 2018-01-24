@@ -10,7 +10,7 @@ package Homework1;
  * @author Administrator
  */
 import java.util.Stack;
-public class Hw1 {
+public class Homework1 {
 
     
     static Stack<Character> Stackdata = new Stack<Character>();
